@@ -1,4 +1,4 @@
-Raman Spectrum Baseline Correction & Analysis Tool 🧬📊
+# Raman Spectrum Baseline Correction & Analysis Tool 🧬📊
 
 라만 분광 데이터전처리 및 기준선 보정, 시료 간 스펙트럼 비교와 피크 분석을 자동화하는 통합 데스크톱 GUI 애플리케이션
 
